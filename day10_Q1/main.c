@@ -68,3 +68,29 @@ int main(void)
 	return 0;
 }
 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*stm+uart+minicom
+
+PA2 RX
+PA3 TX
+GND GND*/
+
+
+
+
+

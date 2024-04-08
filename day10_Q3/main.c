@@ -52,3 +52,28 @@ int main(void)
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+stm+i2c lcd
+PB6 SCL
+PB7 SDA
+GND 
+VCC*/

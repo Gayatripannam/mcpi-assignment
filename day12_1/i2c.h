@@ -1,8 +1,8 @@
 /*
  * i2c.h
  *
- *  Created on: Apr 2, 2024
- *      Author: mayusical
+ *  Created on: Apr 3, 2024
+ *      Author: jitendra
  */
 
 #ifndef I2C_H_

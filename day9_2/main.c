@@ -81,3 +81,20 @@ int main(void)
 		}
 		return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+/*stm i2c
+  PB6 SCL
+  PB7 SDA
+  VCC
+  GND*/

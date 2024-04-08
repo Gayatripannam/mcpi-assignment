@@ -63,3 +63,11 @@ int main(void)
 
 
 
+
+/* STM  + I2C
+   PB6   SCL
+   PB7   SDA
+   GND 
+    +5  */
+
+

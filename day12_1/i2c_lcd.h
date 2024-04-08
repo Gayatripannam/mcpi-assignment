@@ -1,8 +1,8 @@
 /*
  * i2c_lcd.h
  *
- *  Created on: Apr 2, 2024
- *      Author: Nilesh
+ *  Created on: Apr 3, 2024
+ *      Author: jitendra
  */
 
 #ifndef I2C_LCD_H_
